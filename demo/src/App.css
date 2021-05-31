@@ -1,0 +1,12 @@
+.root {
+  max-height: 100vh;
+  overflow: auto;
+}
+
+.square {
+  width: 512px;
+  height: 512px;
+  background-color: crimson;
+  margin-top: 4rem;
+  margin-left: 4rem;
+}
