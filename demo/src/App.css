@@ -1,9 +1,12 @@
 .root {
+  position: absolute;
   max-height: 100vh;
+  width: 100vw;
   overflow: auto;
 }
 
 .square {
+  position: relative;
   width: 512px;
   height: 512px;
   background-color: crimson;
